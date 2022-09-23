@@ -1,0 +1,14 @@
+{
+  "name": "lgserve",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "lgserve": "bin/www.js"
+  },
+  "dependencies": {
+    "commander": "^9.4.0",
+    "ejs": "^3.1.8",
+    "mime": "^3.0.0"
+  }
+}
